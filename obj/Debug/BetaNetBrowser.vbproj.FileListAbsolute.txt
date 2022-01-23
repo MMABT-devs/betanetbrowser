@@ -1,0 +1,12 @@
+M:\Projects\BetaNetBrowser\bin\Debug\BetaNetBrowser.exe.config
+M:\Projects\BetaNetBrowser\bin\Debug\BetaNetBrowser.exe
+M:\Projects\BetaNetBrowser\bin\Debug\BetaNetBrowser.pdb
+M:\Projects\BetaNetBrowser\bin\Debug\BetaNetBrowser.xml
+M:\Projects\BetaNetBrowser\obj\Debug\BetaNetBrowser.vbproj.AssemblyReference.cache
+M:\Projects\BetaNetBrowser\obj\Debug\BetaNetBrowser.BetaNetBrowser.resources
+M:\Projects\BetaNetBrowser\obj\Debug\BetaNetBrowser.Resources.resources
+M:\Projects\BetaNetBrowser\obj\Debug\BetaNetBrowser.vbproj.GenerateResource.cache
+M:\Projects\BetaNetBrowser\obj\Debug\BetaNetBrowser.vbproj.CoreCompileInputs.cache
+M:\Projects\BetaNetBrowser\obj\Debug\BetaNetBrowser.exe
+M:\Projects\BetaNetBrowser\obj\Debug\BetaNetBrowser.xml
+M:\Projects\BetaNetBrowser\obj\Debug\BetaNetBrowser.pdb

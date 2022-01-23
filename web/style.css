@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+* {
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Nova Square', cursive;
+}
+
+.ctn {
+    background-color: beige;
+    text-align: center;
+}
+
+.ctn h1, h5 {
+    font-size: 64px;
+    color: darkslategray;
+}
+
+.ctn h5 {
+    font-size: 32px;
+}
+
+.ctn p {
+    font-size: 16px;
+    color: black;
+}
+
+.ctn a {
+    font-size: 16px;
+    color: slategray;
+    text-decoration: none;
+}
